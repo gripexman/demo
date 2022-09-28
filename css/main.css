@@ -282,6 +282,9 @@ button {
         margin-left: 30px;
         flex: 5;
     }
+    .title-topic h1 {
+        font-size: 4rem;
+    }
     .btn-chat {
         top: 86%;
     }
@@ -300,9 +303,6 @@ button {
     .two {
         flex: 1;
         margin-right: -14px;
-    }
-    .title-topic h1 {
-        font-size: 4rem;
     }
 }
 
