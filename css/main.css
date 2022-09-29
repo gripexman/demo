@@ -88,6 +88,10 @@ button {
     font-weight: 500;
 }
 
+.menu__item a:hover {
+    color: aquamarine;
+}
+
 .bx-menu {
     font-size: 40px;
 }
@@ -284,12 +288,22 @@ button {
     }
     .btn-chat {
         top: 86%;
+        padding: 10px 20px;
     }
     .btn-ebook {
         margin-top: 5rem;
     }
     .btn-ebook-center {
         text-align: center;
+    }
+    .title-topic h1 {
+        font-size: 74px;
+    }
+    .menu__item {
+        padding: 0 17px 0 8px;
+    }
+    .nav__mobile {
+        max-width: 70%;
     }
 }
 
@@ -302,7 +316,7 @@ button {
         margin-right: -14px;
     }
     .title-topic h1 {
-        font-size: 4rem;
+        font-size: 55px;
     }
 }
 
