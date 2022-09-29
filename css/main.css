@@ -286,6 +286,9 @@ button {
         margin-left: 30px;
         flex: 5;
     }
+    .title-topic h1 {
+        font-size: 4rem;
+    }
     .btn-chat {
         top: 86%;
         padding: 10px 20px;
@@ -315,9 +318,12 @@ button {
         flex: 1;
         margin-right: -14px;
     }
+<<<<<<< HEAD
     .title-topic h1 {
         font-size: 55px;
     }
+=======
+>>>>>>> 42a5bf6aa8dc7803c3d388fdbbe31df59609d179
 }
 
 
